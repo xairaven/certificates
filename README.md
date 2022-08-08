@@ -8,4 +8,4 @@ Certificates that I receive for completing different courses.
 
 Course name | Company | PDF | Verify at
 ------------|---------|-----|-----------
-Version Control with Git | Atlassian | [**PDF-file**](https://github.com/xairaven/certificates/blob/main/res/Atlassian-Git.pdf) | [**Coursera**](https://coursera.org/verify/URNZYKSKSGNJ)
+[**Version Control with Git**](https://www.coursera.org/learn/version-control-with-git) | Atlassian | [**PDF-file**](https://github.com/xairaven/certificates/blob/main/res/Atlassian-Git.pdf) | [**Coursera**](https://coursera.org/verify/URNZYKSKSGNJ)
