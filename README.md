@@ -9,6 +9,7 @@ Certificates that I received for completing different courses.
 
 Course name | Instructors by | PDF | Verify at
 ------------|----------------|-----|-----------
+[**DevOps Crash Course**](https://career.softserveinc.com/en-us/learning-and-certification/query-DevOps%20Crash%20Course) | **Softserve** | [**PDF-file**](./pdf/Softserve-DevOps-Crash.pdf) | [**Career Softserve**](https://career.softserveinc.com/en-us/certification/verification)
 [**Build Responsive Real-World Websites with HTML and CSS**](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) | **Udemy** | [**PDF-file**](./pdf/Schmedtmann-HTML-CSS.pdf) | [**Udemy**](https://www.udemy.com/certificate/UC-a3716901-9789-44cf-a38b-83acf805d723/)
 [**Introduction To SQL**](https://hyperskill.org/tracks/31) | **Hyperskill** | [**PDF-file**](./pdf/Hyperskill-Introduction-To-SQL.pdf) | [**Hyperskill**](https://hyperskill.org/certificates/3be1776c-6767-4526-af27-47e41d74da23.pdf)
 [**Object-Oriented Design**](https://www.coursera.org/learn/object-oriented-design) | **Coursera** | [**PDF-file**](./pdf/Alberta-OOD.pdf) | [**Coursera**](https://coursera.org/verify/59BPC65JBM4C)
