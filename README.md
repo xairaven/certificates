@@ -11,6 +11,7 @@ Certificates that I received for completing different courses.
 Course name | Instructors by | PDF | Verify at
 ------------|----------------|-----|-----------
 [**Linux & Network Administration**](https://education.portaone.com/free-courses/) | **PortaOne** | [**PDF-file**](./pdf/PortaOne-LNA.pdf) | [**-**]()
+[**Getting Started with Accelerated Computing in Modern CUDA C++**](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-AC-04+V2) | **NVIDIA** | [**PDF-file**](./pdf/NVIDIA-CUDA-Starter.pdf) | [**NVIDIA**](https://learn.nvidia.com/certificates?id=WkqNu7CsStekyn-nYG3bqQ#)
 [**DevOps Crash Course**](https://career.softserveinc.com/en-us/learning-and-certification/query-DevOps%20Crash%20Course) | **Softserve** | [**PDF-file**](./pdf/Softserve-DevOps-Crash.pdf) | [**Career Softserve**](https://career.softserveinc.com/en-us/certification/verification)
 [**Introduction to Packet Tracer**]() | **Cisco** | [**PDF-file**](./pdf/Cisco-PacketTracer.pdf) | [**-**]()
 [**Build Responsive Real-World Websites with HTML and CSS**](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) | **Udemy** | [**PDF-file**](./pdf/Schmedtmann-HTML-CSS.pdf) | [**Udemy**](https://www.udemy.com/certificate/UC-a3716901-9789-44cf-a38b-83acf805d723/)
