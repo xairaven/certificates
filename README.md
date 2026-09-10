@@ -25,4 +25,5 @@ Course name | Instructors by | PDF | Verify at
 
 Language | Given By | PDF | Verify at
 ------------|----------------|-----|-----------
+[**English**](https://www.efset.org/) | **EF SET** | [**PDF-file**](./pdf/English-EF-Set.pdf) | [**EF SET**](https://cert.efset.org/1SGqJd) 
 [**Ukrainian - For Civil Service**](https://exam.mova.gov.ua/courses/course-v1:NKSDM+TESTUA+2024/about) | **НАЦІОНАЛЬНА КОМІСІЯ ЗІ СТАНДАРТІВ ДЕРЖАВНОЇ МОВИ** | [**PDF-file**](./pdf/Ukrainian-Civil-Service.pdf) | [**НАЦІОНАЛЬНА КОМІСІЯ ЗІ СТАНДАРТІВ ДЕРЖАВНОЇ МОВИ**](https://rds.mova.gov.ua/certificates/details/530be99c-dd59-4bfa-ac50-672f2f21a13d/) 
