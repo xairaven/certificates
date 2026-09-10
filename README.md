@@ -20,3 +20,9 @@ Course name | Instructors by | PDF | Verify at
 [**Technical Support Fundamentals**](https://www.coursera.org/learn/technical-support-fundamentals) | **Google** | [**PDF-file**](./pdf/Google-Support-Fundamentals.pdf) | [**Coursera**](https://coursera.org/verify/VAFRRCGHUH6G)
 [**Version Control with Git**](https://www.coursera.org/learn/version-control-with-git) | **Atlassian** | [**PDF-file**](./pdf/Atlassian-Git.pdf) | [**Coursera**](https://coursera.org/verify/URNZYKSKSGNJ)
 [**WPF Guide for Beginners**](https://www.udemy.com/course/the-windows-presentation-foundation-wpf-course-for-beginners/) | **Udemy** | [**PDF-file**](./pdf/Udemy-WPF-Guide-for-Beginners.pdf) | [**Udemy**](https://www.udemy.com/certificate/UC-3ed5ad8e-2932-4b79-ae41-c39e5dcc41df/)
+
+## Languages
+
+Language | Given By | PDF | Verify at
+------------|----------------|-----|-----------
+[**Ukrainian - For Civil Service**](https://exam.mova.gov.ua/courses/course-v1:NKSDM+TESTUA+2024/about) | **НАЦІОНАЛЬНА КОМІСІЯ ЗІ СТАНДАРТІВ ДЕРЖАВНОЇ МОВИ** | [**PDF-file**](./pdf/Ukrainian-Civil-Service.pdf) | [**НАЦІОНАЛЬНА КОМІСІЯ ЗІ СТАНДАРТІВ ДЕРЖАВНОЇ МОВИ**](https://rds.mova.gov.ua/certificates/details/530be99c-dd59-4bfa-ac50-672f2f21a13d/) 
